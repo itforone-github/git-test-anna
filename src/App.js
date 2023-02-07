@@ -5,7 +5,7 @@ function App() {
         <Layout id="App">
             <section className="patient_main">
                 <div className="register">
-                    <h3>간편 환자등록</h3>
+                    <h3>간편 환자등록 - 수정!</h3>
                     <div className="box1">
                         <div className="form">
                             <label>이름</label><input type="text" placeholder="이름"/>
